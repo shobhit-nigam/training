@@ -1,3 +1,1 @@
-Repository for codes, files, excercises, tutorials etc for trainings/workshops conducted in Toshiba
-
-Please browse to the folder based on your date of training
+Repository for codes, files, excercises, tutorials etc for trainings/workshops conducted in Collins on 10, 11, 12 June 2019
